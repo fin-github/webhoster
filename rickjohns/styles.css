@@ -1,1 +1,3 @@
-
+.dashed-a {
+    outline: 3px red dashed;
+}
